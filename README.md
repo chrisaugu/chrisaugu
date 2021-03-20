@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=chrisaugu)
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chrisaugu&repo=dwuwifimanager)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chrisaugu&repo=dwuwifitoken)
