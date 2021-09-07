@@ -1,17 +1,14 @@
 <h1 align="center">Hi 👋, I'm Xian</h1>
 <h3 align="center">A passionate Papua New Guinean full-stack developer</h3>
 
-<h4 align="center">I'm a Computer Engineer, Software Developer, Open-Source Enthusiast, and an aspiring Entrepreneur.</h4>
-<p align="center"> <img src="https://img.shields.io/github/followers/bolorundurovj?style=social" alt="bolorundurovj" /> <img
-src="https://img.shields.io/github/last-commit/bolorundurovj/bolorundurovj" alt="bolorundurovj" /> <img
-src="https://img.shields.io/twitter/follow/bolorundurovb?label=Follow%20me&style=social" alt="bolorundurovb" /> </p>
-
+<!-- <h4 align="center">I'm a Computer Engineer, Software Developer, Open-Source Enthusiast, and an aspiring Entrepreneur.</h4> -->
+<!-- <p align="center"> <img src="https://img.shields.io/github/followers/bolorundurovj?style=social" alt="bolorundurovj" /> 
+  <img src="https://img.shields.io/github/last-commit/bolorundurovj/bolorundurovj" alt="bolorundurovj" /> 
+<img src="https://img.shields.io/twitter/follow/bolorundurovb?label=Follow%20me&style=social" alt="bolorundurovb" />
+</p> -->
 ## About
 
-Currently in my sophomore year of university, studying Mathematics & Computing Science at Divine Word University. I most often code up [productivity](https://github.com/chrisaugu/life-calendar) and [analysis](https://github.com/chrisaugu/language-statistics) tools, but nearly any unique project idea is fair game!
-
-**chrisaugu/chrisaugu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Currently in my junior year of high school, planning to study software engineering in the US. I most often code up productivity and analysis tools, but nearly any unique project idea is fair game!
+Currently in my sophomore year of university, studying Mathematics & Computing Science at Divine Word University. I most often code up [Messenger SMS](https://github.com/chrisaugu/MessengerSMS) and [StockX](https://github.com/chrisaugu/StockX), but nearly any unique project idea is fair game!
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on an android SMS app for Papua New Guineans, Messenger SMS and stock quote app for PNGX, StockX
