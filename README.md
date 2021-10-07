@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <!-- - 👯 I’m looking to working on **any short-term project** -->
 <!-- - 👯 I’m looking to collaborate on **any interesting project** -->
 <!-- - 🤔 I’m looking for help with ... -->
-- 📝  I  write articles on [my blog](https://simonilincev.com/blog/)
+- 📝  I  write articles on [my blog](https://www.christianaugustyn.me/blog/)
 <!-- - 💬  Ask me about **Python, Heroku, and Javascript** -->
 <!-- - 💬 Ask me about ... -->
 - 📫 Reach me at **[here](mailto:chrisaugu61@gmail.com)**
