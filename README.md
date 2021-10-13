@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Xian</h1>
-<h3 align="center">A passionate Papua New Guinean full-stack developer</h3>
+<!-- <h3 align="center">A passionate Papua New Guinean full-stack developer</h3> -->
 
 <!-- <h4 align="center">I'm a Computer Engineer, Software Developer, Open-Source Enthusiast, and an aspiring Entrepreneur.</h4> -->
 <!-- <p align="center"> <img src="https://img.shields.io/github/followers/bolorundurovj?style=social" alt="bolorundurovj" /> 
   <img src="https://img.shields.io/github/last-commit/bolorundurovj/bolorundurovj" alt="bolorundurovj" /> 
 <img src="https://img.shields.io/twitter/follow/bolorundurovb?label=Follow%20me&style=social" alt="bolorundurovb" />
 </p> -->
+
 ## About
 
 Currently in my sophomore year, studying Mathematics & Computing Science at [Divine Word University](https://www.dwu.ac.pg) or simply DWU as everyone finds it simple to call it that way. I most often code up [Messenger SMS](https://github.com/chrisaugu/MessengerSMS) and [StockX](https://github.com/chrisaugu/StockX), but nearly any unique project idea is a fair game!
@@ -18,18 +19,21 @@ Here are some ideas to get you started:
 <!-- - 👯 I’m looking to collaborate on **any interesting project** -->
 <!-- - 🤔 I’m looking for help with ... -->
 - 📝  I  write articles on [my blog](https://www.christianaugustyn.me/blog/)
-<!-- - 💬  Ask me about **Python, Heroku, and Javascript** -->
+- 💬  Ask me about **Java, Heroku, and Javascript**
 <!-- - 💬 Ask me about ... -->
 - 📫 Reach me at **[here](mailto:chrisaugu61@gmail.com)**
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: **I'm conversational in Mandarin Chinese** -->
 <!-- - 👨‍💻 All of my projects are available at [my portfolio](https://bolorundurovb.live) -->
 
-## d
+## Passim time works
 <!-- ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chrisaugu&repo=dwuwifitoken) -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=chrisaugu&repo=dwuwifitoken"/>
 </p>
+
+## Tools I use
+[Awesome Works](https://github.com/chrisaugu/awesome-works/)
 
 <!-- <h2 align="center">🏆 Trophies</h2></a>
 <p align="center"> <img width=800 src="https://github-profile-trophy.vercel.app/?username=bolorundurovj&margin-w=30"/>
