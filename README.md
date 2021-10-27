@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/ReactJS-DF5C37?style=for-the-badge&logo=react&logoColor=white)
-![Netlify Status](https://api.netlify.com/api/v1/badges/81f36fda-102b-41f9-8a04-77e6646a5b11/deploy-status)]
+![Netlify Status](https://api.netlify.com/api/v1/badges/81f36fda-102b-41f9-8a04-77e6646a5b11/deploy-status)
 
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=chrisaugu) -->
 <p align="center" height='130px'>
