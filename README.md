@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Xian</h1>
+<h1 align="center">Hi 👋, I'm Christian Augustyn</h1>
 <!-- <h3 align="center">A passionate Papua New Guinean full-stack developer</h3> -->
 
 <!-- <h4 align="center">I'm a Computer Engineer, Software Developer, Open-Source Enthusiast, and an aspiring Entrepreneur.</h4> -->
@@ -12,19 +12,19 @@
 Currently in my sophomore year, studying Mathematics & Computing Science at [Divine Word University](https://www.dwu.ac.pg) or simply DWU as everyone finds it simple to call it that way. I most often code up [Messenger SMS](https://github.com/chrisaugu/MessengerSMS) and [StockX](https://github.com/chrisaugu/StockX), but nearly any unique project idea is a fair game!
 
 Here are some ideas to get you started:
-- 🔭 I’m currently working on an android SMS app for Papua New Guineans, Messenger SMS and stock quote app for PNGX, StockX
-- 🌱 I’m currently learning Python and Kotlin.
-- 👯 I’m looking to collaborate on android projects
+- 🔭 I'm currently working on an android SMS app for Papua New Guineans, Messenger SMS and a stock quote app for PNGX, StockX
+- 🌱 I'm currently learning Python and Kotlin.
+<!-- - 👯 I'm looking to collaborate on android projects -->
 <!-- - 👯 I’m looking to working on **any short-term project** -->
 <!-- - 👯 I’m looking to collaborate on **any interesting project** -->
 <!-- - 🤔 I’m looking for help with ... -->
-- 📝  I  write articles on [my blog](https://www.christianaugustyn.me/blog/)
-- 💬  Ask me about **Java, Heroku, and Javascript**
+<!-- - 📝 I  write articles on [my blog](https://www.christianaugustyn.me/blog/) -->
+<!-- - 💬 Ask me about **Java, Heroku, and Javascript** -->
 <!-- - 💬 Ask me about ... -->
 - 📫 Reach me at **[here](mailto:chrisaugu61@gmail.com)**
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: **I'm conversational in Mandarin Chinese** -->
-<!-- - 👨‍💻 All of my projects are available at [my portfolio](https://bolorundurovb.live) -->
+- 👨‍💻 All of my projects are available at [my portfolio](https://www.christianaugustyn.me)
 
 ## Passim time works
 <!-- ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chrisaugu&repo=dwuwifitoken) -->
@@ -74,6 +74,6 @@ If you want to collaborate, have a project idea, or just feel like reaching out,
   <a href="https://github.com/chrisaugu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="chrisaugu" height="22" width="22"/></a>
 <!--   <a href="https://medium.com/@chrisaugu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="chrisaugu" height="22" width="22" /></a> -->
 <!--   <a href="https://twitter.com/chrisaugu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="chrisaugu" height="22" width="22" /></a> -->
-  <a href="https://linkedin.com/in/chrisaugu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="chrisaugu" height="22" width="22" /></a>
-  <a href="https://instagram.com/christianaugustyn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="christian augustyn" height="22" width="22" /></a>
+  <a href="https://linkedin.com/in/christianaugustyn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="chrisaugu" height="22" width="22" /></a>
+  <a href="https://www.instagram.com/christianaugustyn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="christian augustyn" height="22" width="22" /></a>
 </p>
