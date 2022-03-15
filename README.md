@@ -57,6 +57,8 @@ Here are some ideas to get you started:
 ![ReactJS](https://img.shields.io/badge/ReactJS-DF5C37?style=for-the-badge&logo=react&logoColor=white)
 ![Netlify Status](https://api.netlify.com/api/v1/badges/81f36fda-102b-41f9-8a04-77e6646a5b11/deploy-status)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisaugu&layout=compact)](https://github.com/chrisaugu)
+
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=chrisaugu) -->
 <p align="center" height='130px'>
   <img src="https://github-readme-stats.vercel.app/api?username=chrisaugu&show_icons=true" />
