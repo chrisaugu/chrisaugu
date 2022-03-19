@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 <!-- <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=chrisaugu&theme=vue&currStreakNum=3180EC&ring=3180EC&fire=3180EC&sideNums=3180EC" /> </p> -->
 
 ## Social
-If you want to collaborate, have a project idea, or just feel like reaching out, my email address is **chrisaugu61** (at) **gmail** (dot) **com**.
+If you want to collaborate, have a project idea, or just feel like reaching out, my email address is **hello** (at) **christianaugustyn** (dot) **me**.
 <p align="center">
   <a href="https://stackoverflow.com/chrisaugu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="chrisaugu" height="22" width="22" /></a>
   <a href="mailto:chrisaugu61@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="chrisaugu" height="22" width="22" /></a>&nbsp;
