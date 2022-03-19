@@ -9,7 +9,7 @@
 
 ## About
 
-Currently in my sophomore year, studying Mathematics & Computing Science at [Divine Word University](https://www.dwu.ac.pg) or simply DWU as everyone finds it simple to call it that way. I most often code up [Messenger SMS](https://github.com/chrisaugu/MessengerSMS) and [StockX](https://github.com/chrisaugu/StockX), but nearly any unique project idea is a fair game!
+Currently in my junior year, studying Mathematics & Computing Science at [Divine Word University](https://www.dwu.ac.pg) or simply DWU as everyone finds it simple to call it that way. I most often code up [PNGX Client](https://github.com/chrisaugu/pngx-api-client), [Messenger SMS](https://github.com/chrisaugu/MessengerSMS) and [StockX](https://github.com/chrisaugu/StockX), but nearly any unique project idea is a fair game!
 
 Here are some ideas to get you started:
 - 🔭 I'm currently working on an android SMS app for Papua New Guineans, Messenger SMS and a stock quote app for PNGX, StockX
