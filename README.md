@@ -8,11 +8,24 @@ Currently in my junior year, studying Mathematics & Computing Science at Divine 
 
 * 🌍  I'm based in Papua New Guinea
 * 🖥️  See my portfolio at [Kitten](http://www.christianaugustyn.me/portfolio)
-* ✉️  You can contact me at [chrisaugu61@gmail.com](mailto:chrisaugu61@gmail.com)
+* ✉️  You can contact me at [hello@christianaugustyn.me](mailto:hello@christianaugustyn.me)
 * 🚀  I'm currently working on [Nuku](http://pngx-client.netlify.app/)
 * 🧠  I'm learning Python
 * 🤝  I'm open to collaborating on interesting web projects on ReactJS, VueJS, Ruby on Rails or PHP or Mobile Android Application or Software Development on Java, C, C++
-* ⚡  I own Fantastix PNG
+<!-- * ⚡  I own Fantastix PNG -->
+<!-- - 🔭 I'm currently working on an android SMS app for Papua New Guineans, Messenger SMS and a stock quote app for PNGX, StockX -->
+<!-- - 🌱 I'm currently learning Python and Kotlin. -->
+<!-- - 👯 I'm looking to collaborate on android projects -->
+<!-- - 👯 I’m looking to working on **any short-term project** -->
+<!-- - 👯 I’m looking to collaborate on **any interesting project** -->
+<!-- - 🤔 I’m looking for help with ... -->
+<!-- - 📝 I  write articles on [my blog](https://www.christianaugustyn.me/blog/) -->
+<!-- - 💬 Ask me about **Java, Heroku, and Javascript** -->
+<!-- - 💬 Ask me about ... -->
+<!-- - 😄 Pronouns: ... -->
+<!-- - ⚡ Fun fact: **I'm conversational in Mandarin Chinese** -->
+<!-- - 👨‍💻 All of my projects are available at [my portfolio](https://www.christianaugustyn.me) -->
+
 
 <a href="https://www.github.com/chrisaugu" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/chrisaugu?logo=github&style=for-the-badge&color=ffffff&labelColor=0f172a" /></a>
@@ -104,24 +117,6 @@ src="https://img.shields.io/github/followers/chrisaugu?logo=github&style=for-the
 <img src="https://img.shields.io/twitter/follow/bolorundurovb?label=Follow%20me&style=social" alt="bolorundurovb" />
 </p> -->
 
-## About
-
-Currently in my junior year, studying Mathematics & Computing Science at [Divine Word University](https://www.dwu.ac.pg) or simply DWU as everyone finds it simple to call it that way. I most often code up [PNGX Client](https://github.com/chrisaugu/pngx-api-client), [Messenger SMS](https://github.com/chrisaugu/MessengerSMS) and [StockX](https://github.com/chrisaugu/StockX), but nearly any unique project idea is a fair game!
-
-Here are some ideas to get you started:
-- 🔭 I'm currently working on an android SMS app for Papua New Guineans, Messenger SMS and a stock quote app for PNGX, StockX
-- 🌱 I'm currently learning Python and Kotlin.
-<!-- - 👯 I'm looking to collaborate on android projects -->
-<!-- - 👯 I’m looking to working on **any short-term project** -->
-<!-- - 👯 I’m looking to collaborate on **any interesting project** -->
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 📝 I  write articles on [my blog](https://www.christianaugustyn.me/blog/) -->
-<!-- - 💬 Ask me about **Java, Heroku, and Javascript** -->
-<!-- - 💬 Ask me about ... -->
-- 📫 Reach me at **[here](mailto:chrisaugu61@gmail.com)**
-<!-- - 😄 Pronouns: ... -->
-<!-- - ⚡ Fun fact: **I'm conversational in Mandarin Chinese** -->
-- 👨‍💻 All of my projects are available at [my portfolio](https://www.christianaugustyn.me)
 
 ## Passim time works
 <!-- ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chrisaugu&repo=dwuwifitoken) -->
