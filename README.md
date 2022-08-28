@@ -1,7 +1,7 @@
 Hi 👋 My name is Christian Augustyn
 ===================================
 
-Web Developer and Designer and Software Engineer
+Web Developer and Software Engineer
 ------------------------------------------------
 
 Currently in my junior year, studying Mathematics & Computing Science at Divine Word University or simply DWU as everyone finds it simple to call it that way. I most often code up PNGX Client, Messenger SMS and StockX, but nearly any unique project idea is a fair game!
