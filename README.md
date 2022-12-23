@@ -4,10 +4,11 @@ Hi 👋 My name is Christian Augustyn
 Web Developer and Software Engineer
 ------------------------------------------------
 
-Currently in my junior year, studying Mathematics & Computing Science at Divine Word University or simply DWU as everyone finds it simple to call it that way. I most often code up PNGX Client, Messenger SMS and StockX, but nearly any unique project idea is a fair game!
+Currently in my final year, studying Mathematics & Computing Science at Divine Word University or simply DWU as everyone finds it simple to call it that way. I most often code up PNGX Client, Messenger SMS and StockX, but nearly any unique project idea is a fair game!
 
 * 🌍  I'm based in Papua New Guinea
 * 🖥️  See my portfolio at [Kitten](http://www.christianaugustyn.me/portfolio)
+* 🖥️  See my blog at [Kitten](http://blog.christianaugustyn.me)
 * ✉️  You can contact me at [hello@christianaugustyn.me](mailto:hello@christianaugustyn.me)
 * 🚀  I'm currently working on [Nuku](http://pngx-client.netlify.app/)
 * 🧠  I'm learning Python
