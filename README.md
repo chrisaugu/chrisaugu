@@ -21,9 +21,8 @@ Currently in my final year, studying Mathematics & Computing Science at Divine W
 <!-- - 👯 I’m looking to collaborate on **any interesting project** -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 📝 I  write articles on [my blog](https://www.christianaugustyn.me/blog/) -->
-<!-- - 💬 Ask me about **Java, Heroku, and Javascript** -->
+- 💬 Ask me about **Java, Heroku, and Javascript**
 <!-- - 💬 Ask me about ... -->
-<!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: **I'm conversational in Mandarin Chinese** -->
 <!-- - 👨‍💻 All of my projects are available at [my portfolio](https://www.christianaugustyn.me) -->
 
