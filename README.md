@@ -2,9 +2,9 @@
 
 Hi 👋 My name is Christian Augustyn
 ===================================
-Web Developer and Software Engineer
+Software Engineer
 ------------------------------------------------
-Currently in my final year, studying Mathematics & Computing Science at Divine Word University or simply DWU as everyone finds it simple to call it that way. I most often code up PNGX Client, Messenger SMS and StockX, but nearly any unique project idea is a fair game!
+Currently working for Vodafone PNG as Graduat Applications Developer. I most often code up Nuku API (formerly PNGX-API) and its Web App, Messenger SMS, but nearly any unique project idea is a fair game!
 
 <!-- * 🌍  I'm based in Papua New Guinea
 * 🖥️  See my portfolio at [Kitten](http://www.christianaugustyn.me/portfolio)
