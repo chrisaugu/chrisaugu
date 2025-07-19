@@ -2,8 +2,7 @@
 
 Hi 👋 My name is Christian Augustyn
 ===================================
-Software Engineer
-------------------------------------------------
+-----------------------------------
 Currently working for Vodafone PNG as a Graduate Applications Developer. I most often code up Nuku API (formerly PNGX-API) and its Web App, Messenger SMS, but nearly any unique project idea is a fair game!
 
 <!-- * 🌍  I'm based in Papua New Guinea
