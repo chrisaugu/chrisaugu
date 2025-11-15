@@ -5,13 +5,13 @@ Hi 👋 My name is Christian Augustyn
 -----------------------------------
 Currently working for Vodafone PNG as a Graduate Applications Developer. I most often code up Nuku API (formerly PNGX-API) and its Web App, Messenger SMS, but nearly any unique project idea is a fair game!
 
-<!-- * 🌍  I'm based in Papua New Guinea
+* 🌍  I'm based in Papua New Guinea
 * 🖥️  See my portfolio at [Kitten](http://www.christianaugustyn.me/portfolio)
 * 🖥️  See my blog at [Kitten](http://blog.christianaugustyn.me)
 * ✉️  You can contact me at [hello@christianaugustyn.me](mailto:hello@christianaugustyn.me)
 * 🚀  I'm currently working on [Nuku](http://pngx-client.netlify.app/)
-* 🧠  I'm learning Python
-* 🤝  I'm open to collaborating on interesting web projects on ReactJS, VueJS, Ruby on Rails or PHP or Mobile Android Application or Software Development on Java, C, C++
+* 🧠  I'm learning Python and Kotlin
+* 🤝  I'm open to collaborating on interesting web projects on ReactJS, VueJS or Mobile Android Application or Software Development on Java
 <!-- * ⚡  I own Fantastix PNG -->
 <!-- - 🔭 I'm currently working on an android SMS app for Papua New Guineans, Messenger SMS and a stock quote app for PNGX, StockX -->
 <!-- - 🌱 I'm currently learning Python and Kotlin. -->
@@ -24,8 +24,6 @@ Currently working for Vodafone PNG as a Graduate Applications Developer. I most 
 <!-- - 💬 Ask me about ... -->
 <!-- - ⚡ Fun fact: **I'm conversational in Mandarin Chinese** -->
 <!-- - 👨‍💻 All of my projects are available at [my portfolio](https://www.christianaugustyn.me) -->
-
-🌍 I'm based in Papua New Guinea<br>🖥️️ See my portfolio at Kitten<br>🖥️ See my blog at Kitten<br>✉️ You can contact me at hello@christianaugustyn.me<br>🚀 I'm currently working on Nuku<br>🧠 I'm learning Python<br>🤝 I'm open to collaborating on interesting web projects on ReactJS, VueJS, Ruby on Rails or PHP or Mobile Android Application or Software Development on Java, C, C++<br>💬 Ask me about Java, Heroku, and JavaScript
 
 ---
 [![](https://visitcount.itsvg.in/api?id=chrisaugu&icon=5&color=7)](https://visitcount.itsvg.in)
